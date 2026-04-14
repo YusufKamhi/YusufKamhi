@@ -19,11 +19,24 @@ Currently, I serve as a **Senior Software Engineer (Technical Team Lead) at Wise
 
 ### 🎓 Multidisciplinary Background
 
-I hold a diverse academic and professional portfolio that empowers my leadership:
-- **Engineering:** MSc in Computer and Information Engineering.
-- **Business:** MBA (Master of Business Administration).
-- **Humanities:** BA in Philosophy.
-- **Global Impact:** External Expert for the **European Commission** (Horizon 2020) since 2014.
+I hold a vast and diverse academic and professional portfolio that fuels my holistic approach to software leadership:
+
+**Postgraduate:**
+- **PhD (Candidate)** in Computer Engineering – İstanbul Aydın University
+- **MSc** in Computer and Information Engineering – Sakarya University
+- **MBA** (Master of Business Administration) – İstanbul University
+
+**Undergraduate & Associate Degrees:**
+- **BA** in Philosophy – İstanbul University
+- **BSc** in Management Information Systems (MIS) – Anadolu University
+- **BBA** in Business Administration – Anadolu University
+- **AS** in Computer Programming – Atatürk University
+- **AS** in Information Management – Sakarya University
+
+**Public Service & Expert Roles:**
+- **External Expert** for the **European Commission** (Horizon 2020) since 2014
+- **Business Development Mentor** – TÜBİTAK-TEYDEB
+- **Justice Expert** – Presidency of the Justice Commission of Istanbul First Instance Court
 
 ---
 
