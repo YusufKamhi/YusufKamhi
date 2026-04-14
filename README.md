@@ -1,12 +1,12 @@
 <div align="center">
 
 # Yusuf Kamhi
-### Senior Software Engineer · AI-Augmented Development · Customs & Logistics Systems
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+WiseTech+Global;29%2B+Years+in+Customs+%26+Logistics+Systems;AI-Augmented+Development+Expert;European+Commission+External+Expert)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusufkamhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufkamhi)
 [![Email](https://img.shields.io/badge/Email-YusufKamhi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YusufKamhi@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6307--171X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6307-171X)
-[![WiseTech](https://img.shields.io/badge/WiseTech_Global-Senior_SWE-003366?style=for-the-badge&logo=data:image/png;base64,)](https://wisetechglobal.com)
 
 </div>
 
@@ -24,31 +24,30 @@ Outside code: **European Commission External Expert** (Horizon 2020, 10+ years),
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" title="MS SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" title="Azure DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub" />
+</p>
+
 **AI & Agents**
 
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Backend & Architecture**
+**Integration & Domain**
 
-![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-00897B?style=flat-square)
 ![SOAP](https://img.shields.io/badge/SOAP-WSDL-607D8B?style=flat-square)
-
-**Data & DevOps**
-
-![SQL Server](https://img.shields.io/badge/MS--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![EDI](https://img.shields.io/badge/EDI-Integration-5C6BC0?style=flat-square)
+![Customs](https://img.shields.io/badge/Turkish_Customs-Systems-8D6E63?style=flat-square)
 ![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-4GL%2FABL-5C2D91?style=flat-square)
-
-**Process**
-
-![Scrum](https://img.shields.io/badge/Scrum-Agile-FF5722?style=flat-square)
-![TDD](https://img.shields.io/badge/TDD-Test--Driven-43A047?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-F9A825?style=flat-square)
 
 ---
 
@@ -56,9 +55,11 @@ Outside code: **European Commission External Expert** (Horizon 2020, 10+ years),
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)](https://github.com/YusufKamhi)
 
 ![Contribution Graph](https://ghchart.rshah.org/409ba5/YusufKamhi)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YusufKamhi&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/YusufKamhi)
 
 </div>
 
