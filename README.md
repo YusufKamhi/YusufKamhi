@@ -12,16 +12,6 @@
 
 ---
 
-## 🚀 Currently Building
-
-**CustomsAI Agent** — An AI-powered Turkish customs inquiry system built for WiseTech's AI Innovation Challenge 2026.
-
-> Multi-agent architecture integrating Turkish Customs SOAP/WSDL services with a 3-path LLM routing engine (Gemini 2.5 Flash via WiseTech's LLM Gateway), a session-level file cache, and a Tkinter desktop UI. Supports 10 SOAP API methods including `IslemSonucGetir2` and `IslemSonucGetir4`.
-
-**Stack:** `Python` · `Tkinter` · `SOAP/WSDL` · `Gemini 2.5 Flash` · `Claude` · `LLM Gateway`
-
----
-
 ## 👨‍💻 About Me
 
 29+ years building software at the intersection of **logistics**, **customs compliance**, and **AI-augmented engineering** — from writing Turkey's first NCTS transit declaration systems at Ulukom in the late 90s, to leading multi-agent AI workflows at WiseTech Global today.
@@ -66,9 +56,9 @@ Outside code: **European Commission External Expert** (Horizon 2020, 10+ years),
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/YusufKamhi)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true)](https://github.com/YusufKamhi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YusufKamhi)
+![GitHub Streak](https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)
+
+![Contribution Graph](https://ghchart.rshah.org/409ba5/YusufKamhi)
 
 </div>
 
@@ -80,7 +70,7 @@ Multidisciplinary background across 7 degrees in engineering, business, and phil
 
 | Degree | Field | Institution |
 |--------|-------|-------------|
-| PhD (Drop out) | Computer Engineering | İstanbul Aydın University |
+| PhD *(not completed)* | Computer Engineering | İstanbul Aydın University |
 | MSc | Computer & Information Engineering | Sakarya University |
 | MBA | Business Administration | İstanbul University |
 | BA | Philosophy | İstanbul University |
@@ -101,13 +91,13 @@ Multidisciplinary background across 7 degrees in engineering, business, and phil
 ## 💼 Career Timeline
 
 ```
-1997 ──► BİLSİS / BESA BES     Support & IT
-1998 ──► ULUKOM                Customs EDI, NCTS, e-Manifest, e-Invoice
-2002 ──► Peugeot (outsourced)  Vehicle Sales Tracking, Aladin Localization
-2014 ──► ULUKOM                TÜBİTAK R&D, BPM, Vehicle Routing, İTÜ Technopark
-2018 ──► ULUKOM                Software Project Manager
-2019 ──► WiseTech Global       Team Lead, Turkey Customs Team
-2025 ──► WiseTech Global       Senior Software Engineer · AI Innovation Challenge
+BİLSİS / BESA BES ──► Support & IT
+ULUKOM             ──► Customs EDI, NCTS, e-Manifest, e-Invoice
+Peugeot            ──► Vehicle Sales Tracking, Aladin Localization
+ULUKOM             ──► TÜBİTAK R&D, BPM, Vehicle Routing, İTÜ Technopark
+ULUKOM             ──► Software Project Manager
+WiseTech Global    ──► Team Lead, Turkey Customs Team
+WiseTech Global    ──► Senior Software Engineer · AI Innovation Challenge
 ```
 
 ---
