@@ -53,10 +53,6 @@ I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.c
   <img width="70%" src="https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YusufKamhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
 ---
 
 ## 🌍 Roles beyond the IDE
