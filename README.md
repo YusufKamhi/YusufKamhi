@@ -42,19 +42,6 @@ I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.c
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
-
----
-
 ## 🌍 Roles beyond the IDE
 
 | | Role | Where |
