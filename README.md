@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=29%20years.%20One%20domain.%20Zero%20shortcuts.&descAlignY=62&descSize=18&descColor=8b949e" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=1d4ed8&animation=fadeIn&fontAlignY=42&desc=29%20years.%20One%20domain.%20Zero%20shortcuts.&descAlignY=62&descSize=18&descColor=3b82f6" />
-</picture>
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,50:2563eb,100:1e40af&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+WiseTech+Global;Turkish+Customs+%7C+NCTS+%7C+Logistics+Systems;AI-Augmented+Developer+%7C+Claude+%2B+Copilot;EU+Commission+Horizon+2020+Expert;%22Boring+reliable+systems+outlive+clever+ones%22)](https://git.io/typing-svg)
 
@@ -48,16 +45,16 @@ I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.c
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufkamhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkamhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=yusufkamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=YusufKamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yusufkamhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YusufKamhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -75,20 +72,17 @@ I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.c
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" width="100%" />
 </picture>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=80&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bfdbfe,100:dbeafe&height=80&section=footer" />
-</picture>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:2563eb,100:1f3a5f&height=80&section=footer)
 
 <div align="center">
 
-📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;·&nbsp; 🇹🇷 İstanbul &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=yusufkamhi&color=3b82f6&style=flat-square)
+📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;·&nbsp; 🇹🇷 İstanbul &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=YusufKamhi&color=3b82f6&style=flat-square)
 
 </div>
