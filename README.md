@@ -1,46 +1,94 @@
-## 👋 Hi, I’m Yusuf
-
-Senior software engineer focused on **customs, logistics, and complex enterprise integrations**.  
-I design, build, and modernize systems where **regulatory compliance, performance, and reliability** are non‑negotiable.
-
----
-
-## 🧠 What I Work On
-
-- Customs compliance systems (NCTS, declarations, manifests, exporter & union workflows)
-- EDI, SOAP, and REST-based integrations with government and enterprise platforms
-- Modernizing legacy systems (Progress OpenEdge / ABL) into API‑driven architectures
-- Large-scale logistics and trade software with long operational lifecycles
-- AI‑augmented development workflows to improve analysis, delivery, and code quality
-
----
-
-## 🛠️ Tools I Use (Not Buzzwords)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=29%20years.%20One%20domain.%20Zero%20shortcuts.&descAlignY=62&descSize=18&descColor=8b949e" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=1d4ed8&animation=fadeIn&fontAlignY=42&desc=29%20years.%20One%20domain.%20Zero%20shortcuts.&descAlignY=62&descSize=18&descColor=3b82f6" />
+</picture>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,msql,azure,docker,git,github" />
-  <br><br>
-  <img src="https://img.shields.io/badge/REST--API-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EDI--Integration-5C6BC0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Customs--Systems-8D6E63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress--ABL-5C2D91?style=for-the-badge" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+WiseTech+Global;Turkish+Customs+%7C+NCTS+%7C+Logistics+Systems;AI-Augmented+Developer+%7C+Claude+%2B+Copilot;EU+Commission+Horizon+2020+Expert;%22Boring+reliable+systems+outlive+clever+ones%22)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🧭 How I Think About Engineering
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Prefer boring, reliable systems over clever ones
-- Treat legacy code as business knowledge, not technical debt
-- Optimize for maintainability under regulatory pressure
-- Use AI to **support thinking**, not replace it
-- Build systems that survive people, teams, and time
+**Most developers avoid customs code.**
+**I've been writing it since 1996.**
+
+That's not stubbornness — it's depth. In a domain where a single classification error can halt a shipment at a border crossing, domain knowledge isn't overhead. It's the product.
+
+I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.com), building CargoWise modules for declarations, manifests, and logistics compliance. I also build **AI agents** that talk to Turkish customs SOAP/WSDL services, and I hold a BA in **Philosophy** — which turns out to be surprisingly useful when reading legacy ABL code.
+
+<br clear="right"/>
 
 ---
 
-## 📫
+## 🔧 What I work with
 
-- 💼 Senior Software Engineer @ WiseTech Global
-- 🌍 Istanbul, Turkey
-- 🤝 Open to thoughtful technical collaboration and knowledge sharing
-``
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge)
+![REST/SOAP](https://img.shields.io/badge/REST_%7C_SOAP_%7C_EDI-00897B?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufkamhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkamhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=yusufkamhi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yusufkamhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 🌍 Roles beyond the IDE
+
+| | Role | Where |
+|---|---|---|
+| 🇪🇺 | **External Expert — Horizon 2020** | European Commission *(2014 – present)* |
+| 🔬 | **R&D Business Development Mentor** | TÜBİTAK-TEYDEB *(2020 – 2022)* |
+| ⚖️ | **Judicial IT Expert** | Istanbul First Instance Courts *(2013)* |
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yusufkamhi/yusufkamhi/output/github-snake.svg" width="100%" />
+</picture>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0d1117&height=80&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bfdbfe,100:dbeafe&height=80&section=footer" />
+</picture>
+
+<div align="center">
+
+📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;·&nbsp; 🇹🇷 İstanbul &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=yusufkamhi&color=3b82f6&style=flat-square)
+
+</div>
