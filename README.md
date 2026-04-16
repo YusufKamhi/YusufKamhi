@@ -10,12 +10,9 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**Most developers avoid customs code.**
-**I've been writing it since 1996.**
-
-That's not stubbornness — it's depth. In a domain where a single classification error can halt a shipment at a border crossing, domain knowledge isn't overhead. It's the product.
-
-I lead the **Turkey Customs Team** at [WiseTech Global](https://wisetechglobal.com), building CargoWise modules for declarations, manifests, and logistics compliance. I also build **AI agents** that talk to Turkish customs SOAP/WSDL services, and I hold a BA in **Philosophy** — which turns out to be surprisingly useful when reading legacy ABL code.
+I currently lead the Turkey Customs Team at WiseTech Global, developing CargoWise modules across declarations, manifests, transit systems (NCTS), e‑trade, and regulatory compliance. Alongside classic enterprise development, I design AI‑assisted solutions and agents that integrate directly with Turkish customs SOAP/WSDL services, bridging legacy systems with modern automation.
+Over nearly three decades, my work has spanned customs systems, e‑invoice and e‑archive platforms, bonded warehouse automation, YGMS, logistics ERP, EDI integrations, and government‑grade regulatory systems, often under strict legal, financial, and operational constraints.
+My academic background reflects the same breadth: graduate degrees in Engineering and Business, complemented by formal studies in philosophy and information systems. This multidisciplinary foundation has proven especially valuable when navigating regulatory ambiguity, complex stakeholder environments, and long‑lived legacy platforms such as Progress OpenEdge (ABL)
 
 <br clear="right"/>
 
