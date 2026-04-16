@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🏛️ YUSUF KAMHI
-### **Senior Software Engineer • PM • EU Expert • MBA • MSc (IT)**
+### **Systems Architect • EU Expert • MBA • MSc**
 *(Bridging Advanced Engineering with Strategic Business Operations)*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ARCHITECTING+GLOBAL+LOGISTICS+SYSTEMS;STRATEGIC+MANAGEMENT+%26+MBA+INSIGHTS;ADVANCED+SYSTEMS+ENGINEERING+(MSc);EU+HORIZON+2020+EXTERNAL+EXPERT;3+DECADES+OF+RESILIENT+ENGINEERING)](https://git.io/typing-svg)
@@ -23,7 +23,12 @@
 ---
 
 ## 🌐 Executive Narrative
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on Systems" />
+
 > *"Efficiency is doing things right; effectiveness is doing the right things."* As a **Senior Systems Engineer** and **Team Lead** at **WiseTech Global**, I integrate **MSc-level engineering** with **MBA-driven strategic management**. With 30 years of expertise, I specialize in navigating the high-stakes intersection of international customs regulations, legacy system modernization, and AI-augmented logistics automation.
+
+<br clear="right"/>
 
 ---
 
