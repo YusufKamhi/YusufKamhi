@@ -1,17 +1,17 @@
 <div align="center">
 
 # 🏛️ YUSUF KAMHI
-### *Systems Architect • EU Expert • Philosophy & Engineering*
+### **Senior Software Engineer • PM • EU Expert • MBA • MSc (IT)**
+*(Bridging Advanced Engineering with Strategic Business Operations)*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=ARCHITECTING+GLOBAL+LOGISTICS+SYSTEMS;3+DECADES+OF+ENGINEERING+EXCELLENCE;EU+HORIZON+2020+EXTERNAL+EXPERT;BRIDGING+LEGACY+WITH+ARTIFICIAL+INTELLIGENCE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ARCHITECTING+GLOBAL+LOGISTICS+SYSTEMS;STRATEGIC+MANAGEMENT+%26+MBA+INSIGHTS;ADVANCED+SYSTEMS+ENGINEERING+(MSc);EU+HORIZON+2020+EXTERNAL+EXPERT;3+DECADES+OF+RESILIENT+ENGINEERING)](https://git.io/typing-svg)
 
 ---
 
 ## ⚡ Engineering Vitality
-<br/>
-<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=00000000" />
+![Yusuf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YusufKamhi&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117)
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
@@ -22,42 +22,43 @@
 
 ---
 
-## 🌐 The Professional Narrative
-> *"Boring, reliable systems outlive clever ones."* As a **Senior Systems Engineer** at **WiseTech Global**, I operate at the intersection of complex international regulations and high-performance software. My career is defined by the challenge of translating intricate legal frameworks (Customs, NCTS, e-Trade) into resilient, automated digital architectures.
+## 🌐 Executive Narrative
+> *"Efficiency is doing things right; effectiveness is doing the right things."* As a **Senior Systems Engineer** and **Team Lead** at **WiseTech Global**, I integrate **MSc-level engineering** with **MBA-driven strategic management**. With 30 years of expertise, I specialize in navigating the high-stakes intersection of international customs regulations, legacy system modernization, and AI-augmented logistics automation.
 
 ---
 
-## 🛠️ Expertise Matrix
+## 🛠️ Expertise & Leadership Matrix
 
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Core Engineering</h4>
+      <h4>🏗️ Advanced Engineering (MSc)</h4>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mssql,azure,docker,github,git" />
       <br/><br/>
-      <h4>🧩 Legacy & Integration</h4>
-      • <b>Progress OpenEdge (ABL)</b> Specialist<br/>
-      • <b>SOAP / WSDL / EDI</b> Orchestration<br/>
-      • <b>Customs Systems</b> (NCTS / YGMS)
+      • <b>Complex Integration:</b> SOAP / WSDL / EDI Orchestration<br/>
+      • <b>Legacy Modernization:</b> Progress OpenEdge (ABL)<br/>
+      • <b>Domain:</b> Customs Systems (NCTS / YGMS)
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Future-Proofing</h4>
-      • <b>AI-Augmented Development:</b> LLM Agents & Copilots<br/>
-      • <b>Systems Audit:</b> Judicial IT Expert for Courts<br/>
-      • <b>Strategic Advisory:</b> EU Commission Expert
+      <h4>💼 Strategic Management (MBA)</h4>
+      • <b>Operational Excellence:</b> Strategic Planning & Team Leadership<br/>
+      • <b>EU Commission Expert:</b> Technical & Strategic Audit (H2020)<br/>
+      • <b>AI Strategy:</b> Deploying LLM Agents & Copilots<br/>
+      • <b>Judicial Expert:</b> Forensic IT Systems Analysis
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏛️ Beyond the Code (Strategic Roles)
+## 🏛️ Professional Pillars
 
-| Domain | Achievement | Context |
+| Dimension | Qualification | Focus |
 | :--- | :--- | :--- |
-| **EUROPEAN UNION** | **Horizon 2020 Expert** | Technical Audit & Strategic Assessment |
-| **ACADEMIA** | **Multidisciplinary** | Engineering + MBA + Philosophy |
-| **JUSTICE** | **Judicial IT Expert** | Forensic Systems Analysis |
+| **ACADEMIC** | **MBA & MSc** | Strategic Management & Advanced Systems |
+| **ENGINEERING** | **Senior Architect** | 30 Years of Large-Scale ERP & Logistics |
+| **GOVERNANCE** | **EU Expert** | Horizon 2020 / Horizon Europe Program |
+| **ADVISORY** | **Judicial Expert** | Forensic Analysis & Regulatory Compliance |
 
 ---
 
@@ -66,5 +67,5 @@
 ` 📬 YusufKamhi@gmail.com ` • ` 📍 Istanbul ` • ` 🇪🇺 EU Citizen `
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=2&section=footer)
-*(Digitally signed by Yusuf Kamhi — Architect of Resilience)*
+*(Digitally signed by Yusuf Kamhi — Architect of Strategic Systems)*
 </div>
