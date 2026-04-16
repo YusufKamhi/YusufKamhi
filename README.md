@@ -7,9 +7,20 @@
 
 ---
 
-![Stat Grid](https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=00000000)
+## ⚡ Engineering Vitality
+<br/>
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=00000000" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" width="85%" />
+</picture>
 
 </div>
+
+---
 
 ## 🌐 The Professional Narrative
 > *"Boring, reliable systems outlive clever ones."* As a **Senior Systems Engineer** at **WiseTech Global**, I operate at the intersection of complex international regulations and high-performance software. My career is defined by the challenge of translating intricate legal frameworks (Customs, NCTS, e-Trade) into resilient, automated digital architectures.
@@ -47,24 +58,6 @@
 | **EUROPEAN UNION** | **Horizon 2020 Expert** | Technical Audit & Strategic Assessment |
 | **ACADEMIA** | **Multidisciplinary** | Engineering + MBA + Philosophy |
 | **JUSTICE** | **Judicial IT Expert** | Forensic Systems Analysis |
-
----
-
-## 📈 Engineering Vitality
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=00000000" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusufKamhi&theme=transparent" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
-    <img alt="Snake" src="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" width="80%" />
-  </picture>
-</div>
 
 ---
 
