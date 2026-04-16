@@ -1,68 +1,77 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,50:2563eb,100:1e40af&height=200&section=header&text=Yusuf%20Kamhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42)
+# 🏛️ YUSUF KAMHI
+### *Systems Architect • EU Expert • Philosophy & Engineering*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+WiseTech+Global;Turkish+Customs+%7C+NCTS+%7C+Logistics+Systems;AI-Augmented+Developer+%7C+Claude+%2B+Copilot;EU+Commission+Horizon+2020+Expert;%22Boring+reliable+systems+outlive+clever+ones%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=ARCHITECTING+GLOBAL+LOGISTICS+SYSTEMS;3+DECADES+OF+ENGINEERING+EXCELLENCE;EU+HORIZON+2020+EXTERNAL+EXPERT;BRIDGING+LEGACY+WITH+ARTIFICIAL+INTELLIGENCE)](https://git.io/typing-svg)
 
+---
+
+![Stat Grid](https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=00000000)
+
+</div>
+
+## 🌐 The Professional Narrative
+> *"Boring, reliable systems outlive clever ones."* As a **Senior Systems Engineer** at **WiseTech Global**, I operate at the intersection of complex international regulations and high-performance software. My career is defined by the challenge of translating intricate legal frameworks (Customs, NCTS, e-Trade) into resilient, automated digital architectures.
+
+---
+
+## 🛠️ Expertise Matrix
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ Core Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mssql,azure,docker,github,git" />
+      <br/><br/>
+      <h4>🧩 Legacy & Integration</h4>
+      • <b>Progress OpenEdge (ABL)</b> Specialist<br/>
+      • <b>SOAP / WSDL / EDI</b> Orchestration<br/>
+      • <b>Customs Systems</b> (NCTS / YGMS)
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Future-Proofing</h4>
+      • <b>AI-Augmented Development:</b> LLM Agents & Copilots<br/>
+      • <b>Systems Audit:</b> Judicial IT Expert for Courts<br/>
+      • <b>Strategic Advisory:</b> EU Commission Expert
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏛️ Beyond the Code (Strategic Roles)
+
+| Domain | Achievement | Context |
+| :--- | :--- | :--- |
+| **EUROPEAN UNION** | **Horizon 2020 Expert** | Technical Audit & Strategic Assessment |
+| **ACADEMIA** | **Multidisciplinary** | Engineering + MBA + Philosophy |
+| **JUSTICE** | **Judicial IT Expert** | Forensic Systems Analysis |
+
+---
+
+## 📈 Engineering Vitality
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=00000000" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusufKamhi&theme=transparent" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
+    <img alt="Snake" src="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" width="80%" />
+  </picture>
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I currently lead the Turkey Customs Team at WiseTech Global, developing CargoWise modules across declarations, manifests, transit systems (NCTS), e‑trade, and regulatory compliance. Alongside classic enterprise development, I design AI‑assisted solutions and agents that integrate directly with Turkish customs SOAP/WSDL services, bridging legacy systems with modern automation.
-Over nearly three decades, my work has spanned customs systems, e‑invoice and e‑archive platforms, bonded warehouse automation, YGMS, logistics ERP, EDI integrations, and government‑grade regulatory systems, often under strict legal, financial, and operational constraints.
-My academic background reflects the same breadth: graduate degrees in Engineering and Business, complemented by formal studies in philosophy and information systems. This multidisciplinary foundation has proven especially valuable when navigating regulatory ambiguity, complex stakeholder environments, and long‑lived legacy platforms such as Progress OpenEdge (ABL)
-
-<br clear="right"/>
-
----
-
-## 🔧 What I work with
-
 <div align="center">
+  
+` 📬 YusufKamhi@gmail.com ` • ` 📍 Istanbul ` • ` 🇪🇺 EU Citizen `
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-5C2D91?style=for-the-badge)
-![REST/SOAP](https://img.shields.io/badge/REST_%7C_SOAP_%7C_EDI-00897B?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-</div>
-
----
-
-## 🌍 Roles beyond the IDE
-
-| | Role | Where |
-|---|---|---|
-| 🇪🇺 | **External Expert — Horizon 2020** | European Commission *(2014 – present)* |
-| 🔬 | **R&D Business Development Mentor** | TÜBİTAK-TEYDEB *(2020 – 2022)* |
-| ⚖️ | **Judicial IT Expert** | Istanbul First Instance Courts *(2013)* |
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake.svg" width="100%" />
-</picture>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:2563eb,100:1f3a5f&height=80&section=footer)
-
-<div align="center">
-
-📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;·&nbsp; 🇹🇷 İstanbul &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=YusufKamhi&color=3b82f6&style=flat-square)
-
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=2&section=footer)
+*(Digitally signed by Yusuf Kamhi — Architect of Resilience)*
 </div>
