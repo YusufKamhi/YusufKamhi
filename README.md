@@ -10,9 +10,17 @@
 
 ## ⚡ Professional Scope & Expertise
 <br/>
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mssql,azure,docker,github,git,linux,postman,visualstudio,vscode" width="85%" />
 
-<br/><br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=8&hide=html,css" width="41%" />
+</div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufKamhi/YusufKamhi/output/github-snake-dark.svg" />
