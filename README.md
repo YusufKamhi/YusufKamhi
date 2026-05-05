@@ -15,10 +15,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufKamhi&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKamhi&layout=compact&theme=transparent&title_color=3B82F6&icon_color=3B82F6&hide_border=true&langs_count=8&hide=html,css" width="41%" />
-</div>
 
 <br/>
 
