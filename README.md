@@ -13,6 +13,12 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mssql,azure,docker,github,git,linux,postman,visualstudio,vscode" width="85%" />
 
+<!-- SkillIcons içinde bulunmayan kritik kurumsal yetkinlikler için ek rozetler -->
+<div style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Enterprise_Tech-Progress_OpenEdge_(ABL%2F4GL)-7A1F85?style=for-the-badge&logo=progress&logoColor=white" alt="Progress OpenEdge">
+  <img src="https://img.shields.io/badge/Integration-EDI_%2F_SOAP_%2F_WSDL-3B82F6?style=for-the-badge" alt="EDI Integration">
+</div>
+
 <br/>
 
 <picture>
@@ -43,7 +49,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🏗️ Advanced Engineering & AI</h4>
-      • <b>AI-Driven Velocity:</b> Multi-Agent AI Workflows (Copilot & Claude) <br/>
+      • <b>AI-Driven Velocity:</b> Multi-Agent AI Workflows (Copilot & Claude)<br/>
       • <b>Complex Integration:</b> SOAP / REST / WSDL / EDI Orchestration<br/>
       • <b>Legacy Modernization:</b> Progress OpenEdge (4GL/ABL) to Multi-UI Cloud Architecture<br/>
       • <b>Domain:</b> Global Logistics, Customs Systems (NCTS / YGMS), E-Invoicing
@@ -83,7 +89,7 @@
 
 <div align="center">
 
-📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; 📍 Istanbul / Europe &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/yusufkamhi/) *(Opsiyonel: Kendi LinkedIn linkinizi ekleyin)*
+📬 [YusufKamhi@gmail.com](mailto:YusufKamhi@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; 📍 Istanbul / Europe &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/yusufkamhi)
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=2&section=footer)
 *(Digitally signed by Yusuf Kamhi — Architect of Strategic Systems & AI-Driven Delivery)*
