@@ -74,7 +74,16 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,azure,github,git,postman,visualstudio,vscode" height="56" alt="C#, .NET, SQL Server, Azure, GitHub, Git, Postman, Visual Studio, VS Code" /><img src="assets/progress-openedge.svg" height="56" alt="Progress OpenEdge" />
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" />
+<img src="assets/mssql.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+<img src="assets/progress-openedge.svg" width="48" height="48" alt="Progress OpenEdge" title="Progress OpenEdge" />
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" title="Azure" />
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
+<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
 
 <br/><br/>
 
