@@ -36,7 +36,7 @@ I take enterprise software from requirement to production, and I still write cod
 I sit between **engineering and business**: scoping, architecture, team building, Agile execution, release and support. I grew from the code up, from support and development to technical lead, before moving into delivery leadership. I still write code on the hardest problems, review designs and set engineering standards.
 
 * 🚀 **End-to-end delivery**: scope, estimation, planning, risk, releases, go-lives and customer escalations
-* 🧑‍💻 **Hands-on technical lead**: request analysis, technical specifications, coding the most complex parts myself
+* 💻 **Hands-on technical lead**: request analysis, technical specifications, coding the most complex parts myself
 * 👥 **Team leadership**: developers, analysts and testers across parallel projects; hiring, mentoring and 1:1 coaching
 * 🧱 **Engineering quality**: architecture and coding standards, code reviews, Scrum, TDD and CI/CD in daily delivery
 * 🤖 **AI-driven engineering**: AI agents across the whole workflow, with human-in-the-loop checkpoints at key decisions
@@ -74,7 +74,7 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,mssql,azure,docker,github,git,linux,postman,visualstudio,vscode" width="85%" alt="C#, .NET, Python, SQL Server, Azure, Docker, GitHub, Git, Linux, Postman, Visual Studio, VS Code" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,azure,github,git,postman,visualstudio,vscode" height="56" alt="C#, .NET, SQL Server, Azure, GitHub, Git, Postman, Visual Studio, VS Code" /><img src="assets/progress-openedge.svg" height="56" alt="Progress OpenEdge" />
 
 <br/><br/>
 
