@@ -4,7 +4,7 @@
 
 ### Software Project Manager · Technical Team Lead · AI-Augmented SDLC
 
-I take enterprise software from requirement to production, and I still read the code.<br/>
+I take enterprise software from requirement to production, and I still write code on the hardest problems.<br/>
 30+ years in software, 12 of them leading delivery and engineering teams, most of it in logistics & customs technology.
 
 <br/>
@@ -25,9 +25,7 @@ I take enterprise software from requirement to production, and I still read the 
 
 <div align="center">
 
-| 30+ | 12 | 10 | 2 |
-|:---:|:---:|:---:|:---:|
-| **years in IT & software** | **years leading teams** | **enterprise modules shipped** | **master's degrees (MSc & MBA)** |
+<img src="assets/at-a-glance-dark.svg" width="100%" alt="30+ years in software · 12 years leading teams · 25+ products & modules · 2 disciplines: tech & business" />
 
 </div>
 
@@ -35,39 +33,40 @@ I take enterprise software from requirement to production, and I still read the 
 
 ## ⚡ What I Do
 
-I sit between **engineering and business**: scoping, architecture, team building, Agile execution, release and support. I grew from the code up, nearly two decades as developer and technical lead before moving into delivery leadership, so I still review designs and set engineering standards.
+I sit between **engineering and business**: scoping, architecture, team building, Agile execution, release and support. I grew from the code up, from support and development to technical lead, before moving into delivery leadership. I still write code on the hardest problems, review designs and set engineering standards.
 
-* 🚀 **End-to-end delivery**: scope, planning, estimation, risk and releases for business-critical modules
-* 👥 **Team leadership**: developers, analysts and testers across parallel projects; hiring, onboarding, mentoring and 1:1 coaching
+* 🚀 **End-to-end delivery**: scope, estimation, planning, risk, releases, go-lives and customer escalations
+* 🧑‍💻 **Hands-on technical lead**: request analysis, technical specifications, coding the most complex parts myself
+* 👥 **Team leadership**: developers, analysts and testers across parallel projects; hiring, mentoring and 1:1 coaching
 * 🧱 **Engineering quality**: architecture and coding standards, code reviews, Scrum, TDD and CI/CD in daily delivery
-* 🤖 **AI-driven engineering**: leading adoption of multi-agent AI workflows across analysis, development and code review
-* 🔗 **Integration**: REST, SOAP, EDI, banking (MT940), ERP and global trade networks
+* 🤖 **AI-driven engineering**: AI agents across the whole workflow, with human-in-the-loop checkpoints at key decisions
+* 🔗 **Integration**: REST, SOAP, EDI, XML, banking (MT940), ERP and global trade networks
 * 🚢 **Customs & logistics domain**: customs clearance, transit (NCTS), e-Manifest, bonded warehouse, e-Invoicing
 
 ---
 
 ## 💼 Experience
 
-**WiseTech Global** · Software Project Manager & Technical Team Lead · *2018 – present*<br/>
-Delivered customs and trade-compliance modules (Customs Declaration, Summary Declaration, NCTS Transit, Global Manifest, Export Union, eCommerce, e-Trade, SPTS). Key project: the Customs Declaration & Global Manifest integration connecting Turkish customs processes to a global logistics platform. Helped bridge the 2018 acquisition of Ulukom into WiseTech's global product line.
+**WiseTech Global** · Software Project Manager & Technical Team Lead · *2018 – 2026*<br/>
+Owned 2 parallel projects and led a 6-person team of developers, analysts and testers, delivering customs modules: Customs Declaration, Summary Declaration, e-Birlik (exporters' associations), eCommerce, NCTS Transit, Global Manifest and e-Trade. Key project: the Customs Declaration & Global Manifest integration linking Turkish customs to CargoWise. Bridged the 2018 acquisition of Ulukom into WiseTech's global product line.
 
 **Ulukom** · Software Project Manager · *2014 – 2018*<br/>
-Ran TÜBİTAK-TEYDEB 1507 and KOSGEB-funded R&D projects at İTÜ Technopark, delivered a cloud-based 3PL logistics management system, and led the migration from Progress OpenEdge to a multi-UI low-code platform.
+Turkey's customs & logistics software provider serving 800 customers. Built and led an 8-person development team across 7–8 parallel projects. Ran two TÜBİTAK-TEYDEB 1507 projects (Agent-Based BPM for Ship Agencies; Vehicle Routing & Shipment Planning) plus KOSGEB-funded R&D at İTÜ Technopark, all completed successfully. Delivered a cloud-based 3PL logistics management system and led the migration from Progress OpenEdge to a multi-UI low-code platform.
 
-**Ulukom** · Senior Software Engineer → Developer · *1998 – 2014*<br/>
-Technical lead for e-Invoice / e-Archive web services, NCTS transit and express cargo customs declarations; built integrations with INTTRA, Traxon, E-AWB, EurTradeNet, Logo and Univera ERP. On-site at Peugeot Turkey HQ (2002 – 2006) leading localization projects.
+**Ulukom** · Developer → Senior Software Engineer · *1998 – 2014*<br/>
+Technical lead for e-Invoice / e-Archive / e-Ledger web services, NCTS transit and express cargo customs declarations; built integrations with INTTRA, Traxon, E-AWB, EurTradeNet, Logo and Univera ERP. On-site at Peugeot Turkey HQ (2002 – 2006) leading localization projects.
 
 ---
 
 ## 🤖 AI in Software Delivery
 
-I use AI as part of the whole workflow, not only as an autocomplete:
+From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in production delivery. I use AI across the whole workflow, not only as an autocomplete:
 
-**Issue definition → Analysis → Architecture → Coding → Code review → Testing → Documentation → Delivery**
+**Issue definition → Analysis → Specification → Architecture → Coding → Code review → Testing → Documentation → Delivery**
 
-`GitHub Copilot` · `Claude` · `GPT` · `Gemini` · `Multi-agent workflows` · `AI code review`
+`GitHub Copilot` · `Claude` · `GPT` · `Gemini` · `Multi-agent workflows` · `AI code review` · `Human-in-the-loop`
 
-> **The goal: more engineering leverage, without giving up quality, architecture or maintainability.**
+> **The goal: more engineering leverage, with humans in control of quality, architecture and maintainability.**
 
 ---
 
@@ -82,7 +81,7 @@ I use AI as part of the whole workflow, not only as an autocomplete:
 <img src="https://img.shields.io/badge/Progress-OpenEdge%20%2F%20ABL-7A1F85?style=for-the-badge&logo=progress&logoColor=white" alt="Progress OpenEdge / ABL" />
 <img src="https://img.shields.io/badge/Azure-DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 <img src="https://img.shields.io/badge/Integration-REST%20%2F%20SOAP%20%2F%20WSDL-3B82F6?style=for-the-badge" alt="REST / SOAP / WSDL" />
-<img src="https://img.shields.io/badge/Data-EDI%20%2F%20MT940-2563EB?style=for-the-badge" alt="EDI / MT940" />
+<img src="https://img.shields.io/badge/Data-EDI%20%2F%20XML%20%2F%20MT940-2563EB?style=for-the-badge" alt="EDI / XML / MT940" />
 <img src="https://img.shields.io/badge/Security-ISO%2027001-16A34A?style=for-the-badge" alt="ISO 27001" />
 
 </div>
@@ -93,10 +92,10 @@ I use AI as part of the whole workflow, not only as an autocomplete:
 
 * **MSc**, Computer & Information Engineering, Sakarya University
 * **MBA**, İstanbul University
-* Bachelor's degrees in MIS, Business Administration and Philosophy
-* **European Commission**: External Expert, Horizon 2020 *(2014 – present)*
-* **TÜBİTAK-TEYDEB**: Business Development Mentor *(2020 – present)*
-* **İstanbul Commercial Court**: IT Expert Witness *(2013)*
+* Bachelor's degrees in Management Information Systems, Business Administration and Philosophy; associate degrees in Computer Programming and Information Management
+* **TÜBİTAK-TEYDEB**: Business Development Mentor, selected and assigned in the BİGG+ program *(2020 – present)*
+* **European Commission**: Registered External Expert, Horizon 2020 expert database *(2014 – present)*
+* **İstanbul Justice Commission**: Registered IT Expert Witness (Bilirkişi) *(2013)*
 
 ---
 
@@ -110,7 +109,7 @@ I use AI as part of the whole workflow, not only as an autocomplete:
 
 <div align="center">
 
-### Let's build better software.
+### Open to software leadership roles and advisory engagements.
 
 🇹🇷 Turkish (native) · 🇬🇧 English (professional) · 🇪🇸 Spanish (elementary)
 
