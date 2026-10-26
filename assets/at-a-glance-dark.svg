@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="30+ years in software, 12 years leading teams, 25+ products and modules, 2 disciplines: tech and business">
+<style>.n{font:700 46px "Segoe UI",Helvetica,Arial,sans-serif}.l{font:700 12.5px "Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:1.6px}</style>
+<rect x="1.0" y="1" width="198.0" height="148" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="78.0" y="1" width="44" height="4" rx="2" fill="#3B82F6"/>
+<text x="100.0" y="74" text-anchor="middle" class="n" fill="#58A6FF">30+</text>
+<text x="100.0" y="105" text-anchor="middle" class="l" fill="#E6EDF3">YEARS IN</text>
+<text x="100.0" y="125" text-anchor="middle" class="l" fill="#8B949E">SOFTWARE</text>
+<rect x="221.0" y="1" width="198.0" height="148" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="298.0" y="1" width="44" height="4" rx="2" fill="#3B82F6"/>
+<text x="320.0" y="74" text-anchor="middle" class="n" fill="#58A6FF">12</text>
+<text x="320.0" y="105" text-anchor="middle" class="l" fill="#E6EDF3">YEARS LEADING</text>
+<text x="320.0" y="125" text-anchor="middle" class="l" fill="#8B949E">TEAMS</text>
+<rect x="441.0" y="1" width="198.0" height="148" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="518.0" y="1" width="44" height="4" rx="2" fill="#3B82F6"/>
+<text x="540.0" y="74" text-anchor="middle" class="n" fill="#58A6FF">25+</text>
+<text x="540.0" y="105" text-anchor="middle" class="l" fill="#E6EDF3">PRODUCTS &amp;</text>
+<text x="540.0" y="125" text-anchor="middle" class="l" fill="#8B949E">MODULES</text>
+<rect x="661.0" y="1" width="198.0" height="148" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="738.0" y="1" width="44" height="4" rx="2" fill="#3B82F6"/>
+<text x="760.0" y="74" text-anchor="middle" class="n" fill="#58A6FF">2</text>
+<text x="760.0" y="105" text-anchor="middle" class="l" fill="#E6EDF3">DISCIPLINES</text>
+<text x="760.0" y="125" text-anchor="middle" class="l" fill="#8B949E">TECH &amp; BUSINESS</text>
+</svg>
