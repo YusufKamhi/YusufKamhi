@@ -2,14 +2,14 @@
 
 # Yusuf Kamhi
 
-### Software Project Manager · Technical Team Lead · AI-Augmented SDLC
+### Software Project Manager · Software Development Manager · AI-Driven Software Delivery
 
-I take enterprise software from requirement to production, and I still write code on the hardest problems.<br/>
-30+ years in software, 12 of them leading delivery and engineering teams, most of it in logistics & customs technology.
+12 years leading delivery and engineering teams, built on 30+ years in software.<br/>
+I take enterprise software from requirements to production, mostly in logistics, customs and foreign-trade technology.
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=END-TO-END+ENTERPRISE+SOFTWARE+DELIVERY;MULTI-AGENT+AI+IN+THE+SDLC;CUSTOMS+%26+LOGISTICS+TECHNOLOGY;ENGINEERING+LEADERSHIP)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=END-TO-END+ENTERPRISE+SOFTWARE+DELIVERY;SOFTWARE+DEVELOPMENT+MANAGEMENT;MULTI-AGENT+AI+IN+THE+SDLC;CUSTOMS+%26+LOGISTICS+TECHNOLOGY)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@ I take enterprise software from requirement to production, and I still write cod
 
 <div align="center">
 
-<img src="assets/at-a-glance-dark.svg" width="100%" alt="30+ years in software · 12 years leading teams · 25+ products & modules · 2 disciplines: tech & business" />
+<img src="assets/at-a-glance-dark.svg" width="100%" alt="12 years leading teams · 30+ years in software · 25+ products & modules · 2 master's degrees: MBA & MSc" />
 
 </div>
 
@@ -33,11 +33,11 @@ I take enterprise software from requirement to production, and I still write cod
 
 ## ⚡ What I Do
 
-I sit between **engineering and business**: scoping, architecture, team building, Agile execution, release and support. I grew from the code up, from support and development to technical lead, before moving into delivery leadership. I still write code on the hardest problems, review designs and set engineering standards.
+I lead software delivery between **engineering and business**: scoping, team building, Agile execution, release and support. I grew from the code up, from support and development to management, and I stay close enough to the code to review designs and set engineering standards.
 
 * 🚀 **End-to-end delivery**: scope, estimation, planning, risk, releases, go-lives and customer escalations
-* 💻 **Hands-on technical lead**: request analysis, technical specifications, coding the most complex parts myself
 * 👥 **Team leadership**: developers, analysts and testers across parallel projects; hiring, mentoring and 1:1 coaching
+* 📋 **Requirements to specification**: request analysis, technical specifications, and hands-on help on the most complex parts when needed
 * 🧱 **Engineering quality**: architecture and coding standards, code reviews, Scrum, TDD and CI/CD in daily delivery
 * 🤖 **AI-driven engineering**: AI agents across the whole workflow, with human-in-the-loop checkpoints at key decisions
 * 🔗 **Integration**: REST, SOAP, EDI, XML, banking (MT940), ERP and global trade networks
@@ -91,7 +91,7 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 <img src="https://img.shields.io/badge/Azure-DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 <img src="https://img.shields.io/badge/Integration-REST%20%2F%20SOAP%20%2F%20WSDL-3B82F6?style=for-the-badge" alt="REST / SOAP / WSDL" />
 <img src="https://img.shields.io/badge/Data-EDI%20%2F%20XML%20%2F%20MT940-2563EB?style=for-the-badge" alt="EDI / XML / MT940" />
-<img src="https://img.shields.io/badge/Security-ISO%2027001-16A34A?style=for-the-badge" alt="ISO 27001" />
+<img src="https://img.shields.io/badge/Agile-Scrum%20%2F%20TDD%20%2F%20CI%2FCD-16A34A?style=for-the-badge" alt="Agile: Scrum / TDD / CI/CD" />
 
 </div>
 
@@ -99,8 +99,8 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 
 ## 🎓 Education & Expert Roles
 
-* **MSc**, Computer & Information Engineering, Sakarya University
 * **MBA**, İstanbul University
+* **MSc**, Computer & Information Engineering, Sakarya University
 * Bachelor's degrees in Management Information Systems, Business Administration and Philosophy; associate degrees in Computer Programming and Information Management
 * **TÜBİTAK-TEYDEB**: Business Development Mentor, selected and assigned in the BİGG+ program *(2020 – present)*
 * **European Commission**: Registered External Expert, Horizon 2020 expert database *(2014 – present)*
@@ -110,7 +110,7 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 
 ## 📌 Areas of Interest
 
-`AI Engineering` · `Software Architecture` · `Engineering Leadership` · `Digital Transformation`
+`AI Engineering` · `Software Delivery Management` · `Engineering Leadership` · `Digital Transformation`
 
 `Enterprise Integration` · `Legacy Modernization` · `Logistics Technology` · `Customs Systems`
 
@@ -120,7 +120,7 @@ From TÜBİTAK-funded **agent-based R&D** to **multi-agent AI workflows** in pro
 
 ### Open to software leadership roles and advisory engagements.
 
-🇹🇷 Turkish (native) · 🇬🇧 English (professional) · 🇪🇸 Spanish (elementary)
+🇹🇷 Turkish (native) · 🇬🇧 English (professional)
 
 <br/>
 
